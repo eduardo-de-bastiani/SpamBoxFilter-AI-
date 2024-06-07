@@ -1,0 +1,17 @@
+*.csv
+*.tsv
+*.json
+*.xlsx
+.ipynb_checkpoints/
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*.so
+.vscode/
+.idea/
+*.iml
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
